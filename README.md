@@ -13,7 +13,4 @@ Open the index.html file in your web browser to start playing the game.
 HTML5
 CSS3
 JavaScript
-### Screenshots
-![Image Description](image/game1.png)
-![Image Description](image/game2.png)
-![Image Description](image/game3.png)
+### [Demo Link]([https://your-demo-link.com](https://shrouk-fathy.github.io/Memory-Game/).
